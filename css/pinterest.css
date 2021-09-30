@@ -1,0 +1,12 @@
+.log {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 40px;
+    width: 40px;
+  
+}
+
+.navbar {
+    background-color: white;
+}
